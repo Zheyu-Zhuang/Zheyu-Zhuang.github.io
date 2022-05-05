@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD graduate at the Australian National University and the Australian Centre of Excellence for Robotic Vision (ACRV) under the supervision of [Prof. Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony#acton-tabs-link--tabs-0-middle-3). 
+I'm a PhD graduate from the Australian National University and the Australian Centre of Excellence for Robotic Vision (ACRV) under the supervision of [Prof. Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony#acton-tabs-link--tabs-0-middle-3). 
 
 My main research interest is developing novel visuomotor (image-to-control) policies for real-time, reactive, multi-instance grasping in the real world. This body of work is now integrated into a pure-vision based human-robot collaboration furniture assembly system. My side research projects involve 6D object pose estimation, monocular depth estimation, hand-eye calibration and manipulator-based semi-automatic dataset collection.
 
