@@ -25,3 +25,7 @@ I was also a develop of [Cartman](https://www.technologyreview.com/2017/07/31/15
   height="157"
   src="https://www.youtube.com/embed/Fo5XI5OJ4QQ">
   </iframe>
+
+---
+<em>End-to-end Multi-Instance Robotic Reaching from Monocular Vision</em>
+  <iframe width="280" height="157" src="https://www.youtube.com/embed/ebJEIg8Nup4"></iframe>
