@@ -19,18 +19,20 @@ I was also a develop of [Cartman](https://www.technologyreview.com/2017/07/31/15
 # Highlight Videos
 ---
 
-## [2022] GoferBot: A Visual Guided Human-Robot Collaborative Assembly System
+<em>[2022] GoferBot: A Visual Guided Human-Robot Collaborative Assembly System</em>
   <iframe 
   width="280"
   height="157"
   src="https://www.youtube.com/embed/Fo5XI5OJ4QQ">
   </iframe>
+<br>
 
 ---
-## [2021] End-to-end Multi-Instance Robotic Reaching from Monocular Vision
+<em>[2021] End-to-end Multi-Instance Robotic Reaching from Monocular Vision </em>
   <iframe width="280" height="157" src="https://www.youtube.com/embed/ebJEIg8Nup4"></iframe>
+<br>
 
 ---
 
-## [2017] The Cartman System - Winner of the Amazon Robotics Challenge
+<em>[2017] The Cartman System - Winner of the Amazon Robotics Challenge</em>
   <iframe width="280" height="157" src="https://www.youtube.com/embed/AljePt7Mh6U"></iframe>
