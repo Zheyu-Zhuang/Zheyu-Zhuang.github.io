@@ -46,6 +46,11 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 </details>
 
 ---
+
+# >> Object Pose and Depth Estimation
+
+---
+
 # >> Pick-and-Place Robotic Systems
 
 ---
@@ -67,7 +72,6 @@ The Amazon Robotics Challenge enlisted sixteen teams to each design a pick-and-p
 <img align="left" width="250" height="250" src="./../images/milan2018semantic.jpg" style="padding-right:20px; padding-left:40px; padding-top:10px"/> 
 
 **Semantic Segmentation from Limited Training Data** [[paper](https://arxiv.org/abs/1709.07665)]<br>
-
 A. Milan, T. Pham, K. Vijay, D. Morrison, A.W. Tow, L. Liu, J. Erskine, R. Grinover, A. Gurman, T. Hunn, N. Kelly-Boxall, D. Lee, M. McTaggart, G. Rallos, A. Razjigaev, T. Rowntree, T. Shen, R. Smith, S. Wade-McCue, [**Z Zhuang**](https://zheyu-zhuang.github.io), C. Lehnert, G. Lin, I. Reid, P. Corke, J. Leitner<br>
 <em>International Conference on Robotics and Automation (ICRA), 2018 </em></br>
 <details>
