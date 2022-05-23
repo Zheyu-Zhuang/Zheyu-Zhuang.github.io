@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# >> Learning from Classical Control
+# >> Vision-based Robotic Manipulation
 ---
 <img align="left" width="300" height="160" src="./../images/conf_icra_2021.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
 
@@ -47,14 +47,6 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 
 ---
 
-# >> Object Pose and Depth Estimation
-
----
-
-# >> Pick-and-Place Robotic Systems
-
----
-
 <img align="left" width="250" height="250" src="./../images/morrison2018cartman.jpg" style="padding-right:20px; padding-left:40px; padding-top:10px"/> 
 
 **Cartman: The Low-cost Cartesian Manipulator That Won the Amazon Robotics Challenge** [[Paper](https://arxiv.org/abs/1709.06283)][[Code](https://github.com/warehouse-picking-automation-challenges/team_acrv_2017)][[Project Page](http://juxi.net/projects/AmazonRoboticsChallenge/)]<br>
@@ -79,5 +71,7 @@ A. Milan, T. Pham, K. Vijay, D. Morrison, A.W. Tow, L. Liu, J. Erskine, R. Grino
 We present our approach for robotic perception in cluttered scenes that led to winning the recent Amazon Robotics Challenge (ARC) 2017. Next to small objects with shiny and transparent surfaces, the biggest challenge of the 2017 competition was the introduction of unseen categories. In contrast to traditional approaches which require large collections of annotated data and many hours of training, the task here was to obtain a robust perception pipeline with only few minutes of data acquisition and training time. To that end, we present two strategies that we explored. One is a deep metric learning approach that works in three separate steps: semantic-agnostic boundary detection, patch classification and pixel-wise voting. The other is a fully-supervised semantic segmentation approach with efficient dataset collection. We conduct an extensive analysis of the two methods on our ARC 2017 dataset. Interestingly, only few examples of each class are sufficient to fine-tune even very deep convolutional neural networks for this specific task.</sub>
 </details>
 
+---
 
+# >> Object Pose and Depth Estimation
 
