@@ -16,11 +16,12 @@ My main research interest is developing novel visuomotor (image-to-control) poli
 I was also a develop of [Cartman](https://www.technologyreview.com/2017/07/31/150252/amazons-new-robo-picker-champion-is-proudly-inhuman/), ACRV's winner robot for the Amazon Robotic Challenge 2017. 
 
 
-# Highlight
+# Highlight Videos
 ---
 
+<em>GoferBot: A Visual Guided Human-Robot Collaborative Assembly System</em>
   <iframe 
-  width="560"
-  height="315"
+  width="280"
+  height="157"
   src="https://www.youtube.com/embed/Fo5XI5OJ4QQ">
   </iframe>
