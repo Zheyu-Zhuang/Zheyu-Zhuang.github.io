@@ -55,7 +55,6 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 **Cartman: The Low-cost Cartesian Manipulator That Won the Amazon Robotics Challenge** <br>
 [[Paper](https://arxiv.org/abs/1709.06283)][[Code](https://github.com/warehouse-picking-automation-challenges/team_acrv_2017)][[Project Page](http://juxi.net/projects/AmazonRoboticsChallenge/)]<br>
 Doug Morrison, AW Tow, M McTaggart, R Smith, N Kelly-Boxall, S Wade-McCue, J Erskine, R Grinover, A Gurman, T Hunn, D Lee, A Milan, T Pham, G Rallos, A Razjigaev, T Rowntree, K Vijay, [**Z Zhuang**](https://zheyu-zhuang.github.io), C Lehnert, I Reid, P Corke, J Leitner<br>
-
 <em>International Conference on Robotics and Automation (ICRA), 2018</em>
 <details>
   <summary>Abstract</summary>
@@ -69,8 +68,8 @@ The Amazon Robotics Challenge enlisted sixteen teams to each design a pick-and-p
 
 **Semantic Segmentation from Limited Training Data** [[paper](https://arxiv.org/abs/1709.07665)]<br>
 
-A. Milan, T. Pham, K. Vijay, D. Morrison, A.W. Tow, L. Liu, J. Erskine, R. Grinover, A. Gurman, T. Hunn, N. Kelly-Boxall, D. Lee, M. McTaggart, G. Rallos, A. Razjigaev, T. Rowntree, T. Shen, R. Smith, S. Wade-McCue, [**Z Zhuang**](https://zheyu-zhuang.github.io), C. Lehnert, G. Lin, I. Reid, P. Corke, J. Leitner
-International Conference on Robotics and Automation (ICRA), 2018
+A. Milan, T. Pham, K. Vijay, D. Morrison, A.W. Tow, L. Liu, J. Erskine, R. Grinover, A. Gurman, T. Hunn, N. Kelly-Boxall, D. Lee, M. McTaggart, G. Rallos, A. Razjigaev, T. Rowntree, T. Shen, R. Smith, S. Wade-McCue, [**Z Zhuang**](https://zheyu-zhuang.github.io), C. Lehnert, G. Lin, I. Reid, P. Corke, J. Leitner<br>
+<em>International Conference on Robotics and Automation (ICRA), 2018 </br>
 
 <details>
   <summary>Abstract</summary>
