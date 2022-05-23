@@ -22,7 +22,7 @@ Multi-instance scenes are especially challenging for end-to-end visuomotor (imag
 
 ---
 
-<img align="left" width="300" height="180" src="./../images/icra2020_teaser.png" style="padding-right:20px; padding-left:40px"/>
+<img align="left" width="300" height="160" src="./../images/icra2020_teaser.png" style="padding-right:20px; padding-left:40px"/>
 
 **LyRN (Lyapunov Reaching Network): A Real-Time Closed Loop approach from Monocular Vision** [[Paper](https://arxiv.org/pdf/2005.12072.pdf)]<br>
 [**Zheyu Zhuang**](https://zheyu-zhuang.github.io), [Xin Yu](https://profiles.uts.edu.au/Xin.Yu), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)<br>
