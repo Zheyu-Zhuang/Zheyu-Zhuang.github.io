@@ -35,7 +35,7 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 
 ---
 
-<img align="left" width="300" height="160" src="./../images/iros2019_teaser.png" style="padding-right:20px; padding-left:40px"/> 
+<img align="left" width="300" height="160" src="./../images/iros2019_teaser.png" style="padding-right:20px; padding-left:40px; padding-top:20px"/> 
 
 **Learning Real-time Closed Loop Robotic Reaching from Monocular** [[Paper](https://arxiv.org/pdf/2005.12072.pdf)]<br>
 [**Zheyu Zhuang**](https://zheyu-zhuang.github.io), [Jürgen Leitner](https://juxi.net), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)<br>
