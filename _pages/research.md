@@ -7,6 +7,7 @@ author_profile: true
 
 
 # >> Learning from Classical Control
+---
 <img align="left" width="300" height="160" src="./../images/conf_icra_2021.png" style="padding-right:20px; padding-left:40px; padding-top:20px"/> <br/>
 
 **End-to-end Multi-Instance Robotic Reaching from Monocular Vision** [[Paper](https://ieeexplore.ieee.org/abstract/document/9561518)]<br>
