@@ -10,7 +10,6 @@ author_profile: true
 <img align="left" width="300" height="100" src="./../images/conf_icra_2021.pdf" style="padding-right:20px; padding-left:20px; padding-top:20px"/>
 
 <br/>
-<br/>
 
 **End-to-end Multi-Instance Robotic Reaching from Monocular Vision** [[Paper](https://ieeexplore.ieee.org/abstract/document/9561518)]<br>
 [**Zheyu Zhuang**](https://zheyu-zhuang.github.io), [Xin Yu](https://profiles.uts.edu.au/Xin.Yu), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)<br>
