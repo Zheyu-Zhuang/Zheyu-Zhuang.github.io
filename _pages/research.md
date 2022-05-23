@@ -75,3 +75,13 @@ We present our approach for robotic perception in cluttered scenes that led to w
 
 # >> Object Pose and Depth Estimation
 
+<img align="left" width="250" height="250" src="./../images/yu_bmvc_2020.png" style="padding-right:20px; padding-left:40px; padding-top:10px"/> 
+
+**6DoF Object Pose Estimation via Differentiable Proxy Voting Regularizer** [[Paper](https://www.bmvc2020-conference.com/assets/papers/0287.pdf)]<br>
+[Xin Yu](https://profiles.uts.edu.au/Xin.Yu), [**Zheyu Zhuang**](https://zheyu-zhuang.github.io), [Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/), [Hongdong Li](http://users.cecs.anu.edu.au/~hongdong/)<br>
+<em>The British Machine Vision Conference (BMVC)</em>, 2020.
+<details>
+  <summary>Abstract</summary>
+<sub>
+Estimating a 6DOF object pose from a single image is very challenging due to occlusions or textureless appearances. Vector-field based keypoint voting has demonstrated its effectiveness and superiority on tackling those issues. However, direct regression of vector-fields neglects that the distances between pixels and keypoints also affect the deviations of hypotheses dramatically. In other words, small errors in direction vectors may generate severely deviated hypotheses when pixels are far away from a keypoint. In this paper, we aim to reduce such errors by incorporating the distances between pixels and keypoints into our objective. To this end, we develop a simple yet effective differentiable proxy voting regularizer (DPVR) which mimics the hypothesis selection in the voting procedure. By exploiting our voting regularizer, we are able to train our network in an end-to-end manner. Experiments on widely used datasets, i.e., LINEMOD and Occlusion LINEMOD, manifest that our DPVR improves pose estimation performance significantly and speeds up the training convergence.</sub>
+</details>
