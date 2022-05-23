@@ -35,7 +35,7 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 
 ---
 
-<img align="left" width="300" height="160" src="./../images/iros2019_teaser.png" style="padding-right:20px; padding-left:40px; padding-top:20px"/> 
+<img align="left" width="300" height="160" src="./../images/iros2019_teaser.png" style="padding-right:20px; padding-left:40px"/> 
 
 **Learning real-time closed loop robotic reaching from monocular vision by exploiting a control Lyapunov function structure** [[Paper](https://arxiv.org/pdf/2005.12072.pdf)]<br>
 
