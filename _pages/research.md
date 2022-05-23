@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# >> Vision-based Robotic Manipulation
+# <em> Vision-based Robotic Manipulation</em>
 ---
 <img align="left" width="300" height="160" src="./../images/conf_icra_2021.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
 
@@ -75,7 +75,7 @@ We present our approach for robotic perception in cluttered scenes that led to w
 
 ---
 
-# >> Object Pose and Depth Estimation
+# <em> Object Pose and Depth Estimation</em>
 
 <img align="left" width="250" height="250" src="./../images/kennedy_iros_2021.png" style="padding-right:20px; padding-left:40px; padding-top:10px"/> 
 
