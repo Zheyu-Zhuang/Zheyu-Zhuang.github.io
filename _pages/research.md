@@ -39,11 +39,9 @@ We propose a closed-loop, multi-instance control algorithm for visually guided r
 
 **Learning real-time closed loop robotic reaching from monocular vision by exploiting a control Lyapunov function structure** [[Paper](https://arxiv.org/pdf/2005.12072.pdf)]<br>
 [**Zheyu Zhuang**](https://zheyu-zhuang.github.io), [Jürgen Leitner](https://juxi.net), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)<br>
-<em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2019.
-<details>
+<em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2019. <details>
   <summary>Abstract</summary>
-<sub>
-Visual reaching and grasping is a fundamental problem in robotics research. This paper proposes a novel approach based on deep learning a control Lyapunov function and its derivatives by encouraging a differential constraint in addition to vanilla regression that directly regresses independent joint control inputs. A key advantage of the proposed approach is that an estimate of the value of the control Lyapunov function is available in real-time that can be used to monitor the system performance and provide a level of assurance concerning progress towards the goal. The results we obtain demonstrate that the proposed approach is more robust and more reliable than vanilla regression.</sub>
+<sub> Visual reaching and grasping is a fundamental problem in robotics research. This paper proposes a novel approach based on deep learning a control Lyapunov function and its derivatives by encouraging a differential constraint in addition to vanilla regression that directly regresses independent joint control inputs. A key advantage of the proposed approach is that an estimate of the value of the control Lyapunov function is available in real-time that can be used to monitor the system performance and provide a level of assurance concerning progress towards the goal. The results we obtain demonstrate that the proposed approach is more robust and more reliable than vanilla regression.</sub>
 </details>
 
 ---
