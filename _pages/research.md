@@ -7,6 +7,33 @@ author_profile: true
 
 
 # <em> Vision-based Robotic Manipulation</em>
+
+<img align="left" width="300" height="160" src="./../images/zhuang_iros_2022.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
+
+**GoferBot: A Visual Guided Human-Robot Collaborative Assembly System** <br>
+[Zheyu Zhuang*](https://zheyu-zhuang.github.io), [Yizhak Ben-Shabat*](https://www.itzikbs.com), Jiahao Zhang, [Stephen Gould](https://cecs.anu.edu.au/people/stephen-gould), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)<br>
+<small>
+*Equal Contribution
+</small>
+
+<em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022. 
+
+<details>
+  <summary>Abstract</summary>
+<sub>
+
+The current transformation towards smart manufacturing has led to a growing demand for human-robot collaboration (HRC) in the manufacturing process.
+Perceiving and understanding the human co-worker's behaviour introduces challenges for collaborative robots to efficiently and effectively perform tasks in unstructured and dynamic environments.
+Integrating recent data-driven machine vision capabilities into HRC systems is a logical next step in addressing these challenges. However, in these cases, off-the-shelf components struggle due to generalisation limitations. 
+Furthermore, understanding the pure-vision aspects is a crucial first step before combining multiple modalities in order to understand the limitations.
+In this paper, we propose GoferBot, a novel vision-based semantic HRC system for a real-world assembly task.
+It is composed of a visual servoing module that reaches and grasps assembly parts in an unstructured multi-instance and dynamic environment, an action recognition module that performs human action prediction for implicit communication, and a visual handover module that uses the perceptual understanding of human behaviour to produce an intuitive and efficient collaborative assembly experience.
+GoferBot is a novel assembly system that seamlessly integrates all sub-modules by utilising implicit semantic information purely from visual perception.
+</sub>
+</details>
+
+---
+
 ---
 <img align="left" width="300" height="160" src="./../images/conf_icra_2021.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
 
