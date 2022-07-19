@@ -14,9 +14,7 @@ author_profile: true
 [Zheyu Zhuang\*](https://zheyu-zhuang.github.io), [Yizhak Ben-Shabat\*](https://www.itzikbs.com), Jiahao Zhang, [Stephen Gould](https://cecs.anu.edu.au/people/stephen-gould), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony).
 <small>
 *\*Equal Contribution*
-</small>
-<br>
-
+</small> <br>
 <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022. 
 
 <details>
@@ -32,9 +30,6 @@ It is composed of a visual servoing module that reaches and grasps assembly part
 GoferBot is a novel assembly system that seamlessly integrates all sub-modules by utilising implicit semantic information purely from visual perception.
 </sub>
 </details>
-
----
-
 ---
 <img align="left" width="300" height="160" src="./../images/conf_icra_2021.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
 
