@@ -11,9 +11,9 @@ author_profile: true
 <img align="left" width="300" height="160" src="./../images/zhuang_iros_2022.png" style="padding-right:20px; padding-left:40px; padding-top:15px"/> 
 
 **GoferBot: A Visual Guided Human-Robot Collaborative Assembly System** <br>
-[Zheyu Zhuang\*](https://zheyu-zhuang.github.io), [Yizhak Ben-Shabat\*](https://www.itzikbs.com), Jiahao Zhang, [Stephen Gould](https://cecs.anu.edu.au/people/stephen-gould), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony)
+[Zheyu Zhuang\*](https://zheyu-zhuang.github.io), [Yizhak Ben-Shabat\*](https://www.itzikbs.com), Jiahao Zhang, [Stephen Gould](https://cecs.anu.edu.au/people/stephen-gould), [Robert Mahony](https://cecs.anu.edu.au/people/robert-mahony).
 <small>
-*Equal Contribution
+*\*Equal Contribution*
 </small>
 <br>
 
