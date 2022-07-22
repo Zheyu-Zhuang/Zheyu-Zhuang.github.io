@@ -1,1 +1,1 @@
-<a href="zheyu-zhuang.github.io/folder/cv_zheyu_2022.pdf" target="_blank">PDF.</a>
+<object data="zheyu-zhuang.github.io/folder/cv_zheyu_2022_public.pdf" width="1000" height="1000" type='application/pdf'></object>
