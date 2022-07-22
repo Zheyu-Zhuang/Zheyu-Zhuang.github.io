@@ -1,1 +1,1 @@
-<a href="https://zheyu-zhuang.github.io/files/cv_zheyu_2022_public.pdf">mypdf</a>
+<a href="zheyu-zhuang.github.io/folder/cv_zheyu_2022.pdf" target="_blank">PDF.</a>
