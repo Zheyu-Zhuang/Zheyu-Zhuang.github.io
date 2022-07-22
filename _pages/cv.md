@@ -1,14 +1,1 @@
----
-
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
-
----
-
-{% include base_path %}
-
-To be added.
+<a href="https://zheyu-zhuang.github.io/files/cv_zheyu_2022_public.pdf">mypdf</a>
